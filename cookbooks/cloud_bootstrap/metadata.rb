@@ -1,0 +1,7 @@
+name 'cloud_bootstrap'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures cloud_bootstrap'
+long_description 'Installs/Configures cloud_bootstrap'
+version '0.1.0'

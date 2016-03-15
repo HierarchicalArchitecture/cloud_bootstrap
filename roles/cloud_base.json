@@ -1,0 +1,8 @@
+{
+    "name": "cloud_base",
+    "description": "Role for server that will install/upgrade cloud_base apps.",
+    "run_list": [
+        "recipe[cloud_bootstrap]",
+        "recipe[cloud_bootstrap::chef_daemon]"
+    ]
+}
